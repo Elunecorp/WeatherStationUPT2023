@@ -2,6 +2,7 @@
   "name": "react-weather",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://elunecorp.github.io/WeatherStationUPT2023/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
